@@ -1,0 +1,6 @@
+Flask
+Flask-Bootstrap
+opencv-python
+requests
+tensorflow
+numpy

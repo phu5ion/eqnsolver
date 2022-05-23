@@ -1,0 +1,13 @@
+.editor {
+  height: calc(100vh - 152px);
+  width: 100%;
+}
+#result, nav {
+  display: flex;
+  align-items: center;
+}
+#result {
+  height: 100px;
+  justify-content: center;
+  overflow: auto;
+}
