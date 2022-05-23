@@ -15,7 +15,7 @@ Guy writes equation on website. Machine model parses equation and predicts solut
 > cd {Drag and Drop eqnsolver folder onto Terminal}
 - Run project virtual environment if you chose to set one up
 > source eqnenv/bin/activate
-- Start flask app as usual, you can view the app locally via http://127.0.0.1:5000
+- Start flask app as usual, you can view the app locally via (http://127.0.0.1:5000)
 > python3 -m flask run
 
 - Now, create a new console window and startup local tunnel connection. ***NOTE: It has to be eqnsolver, don't change the subdomain.***
