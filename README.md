@@ -20,4 +20,4 @@ Guy writes equation on website. Machine model parses equation and predicts solut
 
 - Now, create a new console window and startup local tunnel connection. ***NOTE: It has to be eqnsolver, don't change the subdomain.***
 > lt -p 5000 -s eqnsolver
-- You can now view the webpage via the url link: https:eqnsolver.loca.lt/
+- You can now view the webpage via the url link: (https://eqnsolver.loca.lt/)
