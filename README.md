@@ -22,6 +22,9 @@ Guy handwrites an equation on website. Machine learning model, based on Tensorfl
 > lt -p 5000 -s eqnsolver
 - You can now view the webpage via the url link: (https://eqnsolver.loca.lt/)
 
+# Example output
+![Example Output](https://github.com/phu5ion/eqnsolver/tree/master/test/example_output.png?raw=true)
+
 # Credits
 @Dailonic - Frontend API development  
 @phu5ion - Backend ML model development  
