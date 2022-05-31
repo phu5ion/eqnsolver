@@ -1,5 +1,5 @@
 # Equation Solver
-Guy writes equation on website. Machine model parses equation and predicts solution.
+Guy handwrites an equation on website. Machine learning model, based on Tensorflow CNN, parses equation and predicts solution.
 
 # Setup
 - Do git clone stuff as usual
