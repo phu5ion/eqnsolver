@@ -7,8 +7,11 @@ Guy handwrites an equation on website. Machine learning model, based on Tensorfl
 > python3 -m venv eqnenv
 - Install dependencies via requirements.txt
 > pip3 install -r requirements.txt
-- Install LocalTunnel (To expose your localhost to interweb)
+- Install LocalTunnel on Mac (To expose your localhost to interweb)
 > brew install localtunnel
+- Alternatively, if Linux:
+> sudo apt install nodejs npm nodejs-legacy  
+> sudo npm install -g localtunnel
 
 # Run
 - Go to project directory on your console (Terminal for mac)
@@ -23,7 +26,10 @@ Guy handwrites an equation on website. Machine learning model, based on Tensorfl
 - You can now view the webpage via the url link: (https://eqnsolver.loca.lt/)
 
 # Example output
-![Example Output](https://github.com/phu5ion/eqnsolver/tree/master/test/example_output.png?raw=true)
+If the webpage loads correctly, you should see a similar screen to this, where you can handwrite your own equation:  
+
+![Example Output](test/example_output.png?raw=true)
+
 
 # Credits
 @Dailonic - Frontend API development  
